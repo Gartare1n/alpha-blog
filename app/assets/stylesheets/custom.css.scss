@@ -4,6 +4,10 @@
     background-color: black !important;
 }
 
+.custom-toggler.navbar-toggler {
+    border-color: grey;
+}
+
 .nav-link {
     color: white !important;
 }
@@ -31,6 +35,7 @@
 
 html, body {
     height: 100%;
+    padding-top: 25px; 
 }
 
 #page-content {
