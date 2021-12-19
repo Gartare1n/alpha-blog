@@ -1,24 +1,12 @@
-# README
+# About alpha-blog
+Practice of creating a Blog with features:
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+* Simple home page
 
-Things you may want to cover:
+* Articles list
 
-* Ruby version
+* Users list
 
-* System dependencies
+* Users authentication, profiles, CRUD-operations with articles
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Some simple enhancement like hash-pass with bcrypt, validation with various flash-messages etc.
