@@ -14,6 +14,8 @@ Practice of creating a Blog with features:
 
 It's happened, I've finished working on it!!
 
-# Many-to-Many and Tests
+# Many-to-Many and Tests(Complete)
 * Now starting to implement a many-to-many relationship(Users, Articles, Categories)
 * Use all test types(Model, Integration, Functional)
+
+Huh, testing it's hard (ಥ﹏ಥ) 
